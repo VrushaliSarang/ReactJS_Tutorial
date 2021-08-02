@@ -3,7 +3,7 @@ import React from 'react'
 const NavLink = (props) => {
 
   return (
-    <a href="/html/">{props.children}</a>
+    <a href={props.url}>{props.children}</a>
   );
 }
 
