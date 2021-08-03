@@ -36,7 +36,7 @@ class Main extends Component{
     return(
       <main>
 
-        This is the main content element
+        <p>This is the main content element</p>
 
         <CustomDate  datenow={this.state.currentDate} timenow={this.state.currentTime}/>
 
