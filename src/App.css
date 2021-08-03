@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+	font-family: 'Roboto', sans-serif;
+	background-color:#d6d2d2;
+}
+
+header{
+	border-bottom: 0.15rem solid #bdb9b9;
+	border-radius: 2rem;
+	
+	height:20vh;
+}
+main {
+	background-color:white;
+	border: 0.25rem solid #bdb9b9;
+	border-radius: 2rem;
+	margin: 0 auto;
+	height:80vh;
+}
+
+a{
+	margin: 0.5rem;
+}
